@@ -6,6 +6,6 @@ Create a database "stripe_payment" and use provided sql query to create table.
 In payment.js you have to add your pblishable key.
 Payment.js is for client side validation.
 Form is submiited after JS validation and then process.php is executed.
-*** Add your secret and publishable key in process.php ***  and
+***Add your secret and publishable key in process.php***  and
 You are good to go.
 You can change the design accordingly.
